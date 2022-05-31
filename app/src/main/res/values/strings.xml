@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Solitario Celta</string>
+    <!--MainActivity-->
+    <string name="txt_player">Jugador</string>
+    <string name="btn_play">Iniciar partida</string>
+    <string name="image_sound"/>
+    <string name="label_sound">Activate</string>
+
+    <!--GameCeltaActivity-->
+    <string name="opcion1">Opcion1</string>
+    <string name="opcion2">Opcion2</string>
+    <string name="opcion3">Opcion3</string>
+    <string name="opcion4">Opcion4</string>
+    <string name="buscar">Buscar</string>
+    <string name="restar">restart</string>
+    <string name="exit">exit</string>
+    <string name="save">save</string>
+
+    <!--AlertPlayer-->
+    <string name="label_message">Antes de empezar ingrese un nombre!</string>
+    <string name="btn_ok">Ok</string>
+
+</resources>
